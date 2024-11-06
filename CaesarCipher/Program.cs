@@ -20,7 +20,7 @@
 3. Decrypt encrypted
 4. Exit
 
-Ditt val: ");
+Input choice: ");
                 int choice = int.Parse(Console.ReadLine());
 
                 switch (choice)
