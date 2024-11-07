@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\lubke\Desktop\.NET\OOP\Vecka 10 - Generics\Dag 20 - gruppövning\CeacarShift.cs" Link="CeacarShift.cs" />
+  </ItemGroup>
+
 </Project>

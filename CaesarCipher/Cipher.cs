@@ -8,7 +8,6 @@ namespace CaesarCipher
 {
     public class Cipher
     {
-
         public string Encrypt(string text, int shift)
         {
             var ceasarShift = new CeacarShift();
